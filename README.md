@@ -1,2 +1,0 @@
-# ComputationalGeometry
-computational geometry assignments.
